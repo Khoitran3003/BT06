@@ -1,2 +1,2 @@
-# NNPTUD_S2
-# Vào nhánh mỗi ngày để lấy code
+#Trần Hoàng Minh Khôi
+#2180600698
